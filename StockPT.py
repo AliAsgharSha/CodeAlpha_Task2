@@ -1,6 +1,5 @@
 import requests
 
-# Replace 'YOUR_API_KEY' with your Alpha Vantage API key
 API_KEY = 'YOUR_API_KEY'
 BASE_URL = 'https://www.alphavantage.co/query'
 
